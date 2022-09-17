@@ -155,3 +155,5 @@ DEFAULT_AUTO_FIELD = 'django.db.models.AutoField'
 
 
 django_heroku.settings(locals())
+
+#https://ablogproject.herokuapp.com/
